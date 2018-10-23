@@ -1,7 +1,4 @@
-os :
-  - linux
-  - linux-ppc64le
-
+os : linux-ppc64le
 sudo: false
 
 language: python
