@@ -4,8 +4,6 @@ os:
 
 sudo: false
 
-language: python
-
 matrix:
   include:
     - python: 2.6
